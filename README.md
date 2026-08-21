@@ -45,4 +45,4 @@ Caso tenha o compilador `g++` instalado no seu terminal:
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/seu-usuario/nome-do-seu-repositorio.git)
+   git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/Matheus-Duartee/exercicio_teste)
